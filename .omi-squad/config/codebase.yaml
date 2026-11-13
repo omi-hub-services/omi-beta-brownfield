@@ -1,0 +1,7 @@
+schema_version: 1
+language: "javascript"
+other_languages: []
+package_manager: "npm"
+commands:
+  test: "npm test"
+evidence: ["package.json"]
